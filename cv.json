@@ -1,189 +1,316 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Gary Joel Pimentel Rosario",
+    "label": "Full Stack Developer & Científico de Datos con más de 5 años de experiencia.",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQGzQYDlFQ0gTg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1673545307054?e=1752105600&v=beta&t=xWeZ6LhtKhbaVvFoIcg0fe7mn5twoPDu2tjPDipJ5E4",
+    "email": "joelgary1111@hotmail.com",
+    "phone": "+1 8298401805",
+    "url": "",
+    "summary": "🌐 Desarrollador Web & Científico de Datos con más de 5 años de experiencia en el sector tecnológico. Especializado en desarrollo móvil, modelos predictivos e Inteligencia Artificial, aplicando metodologías ágiles para maximizar la eficiencia y los resultados. He liderado proyectos orientados a la optimización de procesos y la toma de decisiones estratégicas, impulsando la innovación a través del poder de los datos. Mi compromiso es transformar información en valor, potenciando estrategias exitosas y sostenibles.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "00000",
+      "city": "Distrito Nacional",
+      "countryCode": "DO",
+      "region": "República Dominicana"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "garypimentel",
+        "url": "https://www.linkedin.com/in/garypimentel/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "piment14714",
+        "url": "https://x.com/piment14714"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Blackhole111",
+        "url": "https://github.com/Blackhole111"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Dirección General de Impuestos Internos (DGII)",
+      "position": "Científico de Datos basado en riesgo",
+      "url": "https://www.dgii.gov.do/Paginas/default.aspx",
+      "startDate": "2024-06-03",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Realizo análisis de riesgo para identificar contribuyentes con potencial incumplimiento fiscal. Utilizo modelos de evaluación y segmentación para optimizar la fiscalización, mejorar la eficiencia en la gestión tributaria y fortalecer el cumplimiento normativo.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Instituto Tecnológico de las Américas (ITLA)",
+      "position": "Docente de Software",
+      "url": "https://itla.edu.do/",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "summary": "Enseño a mis alumnos desde lo más básico hasta nivel universitario en distintos campos: Ciencia de Datos, Programación Web y Móvil, Seguridad Informática, entre otros.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Dirección General de Contrataciones Públicas (DGCP)",
+      "position": "Analista de Datos",
+      "url": "https://www.dgcp.gob.do/",
+      "startDate": "2022-05-30",
+      "endDate": "2024-05-30",
+      "summary": "Proceso información para mejorar la transparencia y la toma de decisiones. Desarrollé consultas en bases de datos, implementé automatización con Inteligencia Artificial y optimicé el análisis de datos en los procesos de contratación.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Ministerio de Educación",
+      "url": "https://www.ministeriodeeducacion.gob.do/",
+      "position": "Soporte TI",
+      "startDate": "2021-04-01",
+      "endDate": "2022-05-01",
+      "summary": "Experiencia en la gestión y resolución de incidencias tecnológicas, mantenimiento de infraestructura y optimización de sistemas. Capacitado en el diagnóstico y solución de problemas en hardware, software y redes, garantizando la continuidad operativa y la satisfacción del usuario. Mi enfoque se centra en la eficiencia, la seguridad de la información y la mejora continua, brindando un soporte técnico rápido y efectivo en entornos exigentes.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Universidad Villanueva",
+      "url": "https://www.villanueva.edu/",
+      "titulo": "https://media.licdn.com/dms/image/v2/D4E2DAQEvrJ-kkzBnWg/profile-treasury-image-shrink_800_800/B4EZYRuF3kGgAc-/0/1744054019091?e=1747422000&v=beta&t=v3NmIzjNXp5CjcZluIuLW4N7mGKAigp84IplieyqxE8",
+      "area": "Máster en Ciencia de Datos",
+      "studyType": "Posgrado",
+      "startDate": "2022-11-01",
+      "endDate": "2023-11-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "IMMUNE Institute Technology",
+      "url": "https://immune.institute/",
+      "titulo": "https://media.licdn.com/dms/image/v2/D4E2DAQEvrJ-kkzBnWg/profile-treasury-image-shrink_800_800/B4EZYRuF3kGgAc-/0/1744054019091?e=1747422000&v=beta&t=v3NmIzjNXp5CjcZluIuLW4N7mGKAigp84IplieyqxE8",
+      "area": "Máster en Ciencia de Datos",
+      "studyType": "Posgrado",
+      "startDate": "2022-11-01",
+      "endDate": "2023-11-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnológica del Cibao (UCATECI)",
+      "url": "https://www.ucateci.edu.do/",
+      "titulo": "https://media.licdn.com/dms/image/v2/D4E2DAQEvrJ-kkzBnWg/profile-treasury-image-shrink_800_800/B4EZYRuF3kGgAc-/0/1744054019091?e=1747422000&v=beta&t=v3NmIzjNXp5CjcZluIuLW4N7mGKAigp84IplieyqxE8",
+      "area": "Ingeniero en Sistemas Computacionales",
+      "studyType": "Grado",
+      "startDate": "2017-01-01",
+      "endDate": "2021-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
-      "name": "MySQL",
+      "name": "SQL Server",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Móvil",
+        "Multiplataforma",
+        "Dart",
+        "UI"
+      ]
+    },
+    {
+      "name": "Astro JS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "R",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Power BI",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     }
   ],
@@ -194,82 +321,118 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Análisis de riesgo tributario en contribuyentes",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Sistema de identificación de riesgo en contribuyentes y asignación de tratamientos efectivos.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "+100k Contribuyentes",
+        "Python & R",
+        "SQL Server",
+        "Modelos Predictivos (IA)"
       ],
-      "url": "https://mars.codes"
+      "url": ""
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "Gobernanza de Datos",
+      "isActive": false,
+      "description": "Diseño de implementación de gobernanza de datos en la Gerencia de Planes Selectivos",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "SQL Server"
       ],
-      "url": "https://adventjs.dev"
+      "url": ""
     },
     {
-      "name": "Codember",
+      "name": "LiciCompras",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Chat de consulta de información de las contrataciones públicas del Estado Dominicano en Telegram.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "NodeJS & JavaScript",
+        "FastAPI & Python"
       ],
-      "url": "https://codember.dev"
+      "url": "https://t.me/DGCP_RD_bot"
     },
     {
-      "name": "codi.link",
+      "name": "PubliCompras",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Algoritmo para publicación de contenido automatizado por base de datos para Instagram y X",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "+1k de visitas",
+        "APIs Instagram & X",
+        "Python"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://lnkd.in/etTETBzn"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Portal de consulta de datos de Open Contracting",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "API REST para consulta de datos de contrataciones públicas de Rep. Dom. bajo el estándar de Open Contracting",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "NodeJS & JavaScript",
+        "React JS"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://api.dgcp.gob.do/"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Sistema de Precios",
+      "isActive": true,
+      "description": "Dashboard para el estudio de mercado bajo los precios de los artículos comprados por el Estado dominicano.",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "Power BI",
+        "IA & spaCy",
+        "Python"
       ],
-      "url": "https://miduconf.com"
+      "url": ""
+    },
+    {
+      "name": "Eficompras",
+      "isActive": true,
+      "description": "Sistema de contrataciones públicas tipo e-commerce",
+      "highlights": [
+        "SQL Server",
+        "WordPress & WooCommerce"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Sistema de Monitoreo",
+      "isActive": true,
+      "description": "Sistema de edición de Word y PDF automatizado",
+      "highlights": [
+        "FastAPI & Python",
+        "React JS"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Sistema de Alerta Preventiva y Reactiva (SAPR)",
+      "isActive": true,
+      "description": "Sistema para automatizar las alertas con los datos de las contrataciones públicas del Estado Dominicano.",
+      "highlights": [
+        "SQL Server",
+        "AngularJS"
+      ],
+      "url": ""
     }
   ]
 }
+
